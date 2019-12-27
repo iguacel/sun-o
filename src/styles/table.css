@@ -1,0 +1,25 @@
+table {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  font-size: 70%;
+}
+
+td:nth-child(1),
+td:nth-child(2),
+td:nth-child(3) {
+  /* your stuff here */
+  padding: 0.2em 0 0.2em 0;
+  font-feature-settings: "tnum";
+  font-variant-numeric: tabular-nums;
+  border-bottom: solid 1px black;
+}
+
+th {
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  opacity: 0.6;
+}
+
+.spacer {
+  border: 1px solid red;
+}
