@@ -14,7 +14,7 @@ function Footer(props) {
           rel="noopener noreferrer"
           title="MeeusSunMoon Github"
         >
-          <strong> MeeusSunMoon</strong> (Gina Häußge),{" "}
+          <strong> MeeusSunMoon</strong> (Jan Greis),{" "}
         </a>
         <a
           href="https://github.com/mbostock/solar-calculator"
