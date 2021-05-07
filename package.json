@@ -26,7 +26,7 @@
     "topojson-client": "3.1.0",
     "tz-lookup": "6.1.25",
     "tzlookup": "1.4.0",
-    "underscore": "1.9.1",
+    "underscore": "1.12.1",
     "use-debounce": "3.3.0"
   },
   "scripts": {
